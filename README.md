@@ -20,6 +20,8 @@ Seed repo for projects for e4040-2021Fall-project
 
 8. Submit report as a pdf file, through courseworks upload, and also have the pdf report in the root of the github repo for the group
 
+# Reference Paper
+https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf
 
 # Organization of this directory
 To be populated by students, as shown in previous assignments.
